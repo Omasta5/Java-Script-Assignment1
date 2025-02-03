@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+html{
+    scroll-behavior: smooth;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+body{
+    font-size: 30px;
+}
+
+#noun1{
+    background-color: yellow;
+}
+
+#verb{
+    background-color: orange;
+}
+
+#adjective{
+    background-color: green;
+}
+
+#noun2{
+    background-color: blue;
+}
+
+#setting{
+    background-color: lightblue;
+}
+
+#playback, #random{
+    background-color: gray;
+}
+
